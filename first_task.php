@@ -1,8 +1,9 @@
 <?php
 /* Imagine a lot of code here */
-    $number = 15;
-    echo $number;
-    $new_number = 10;
-    echo $new_number, "\n";
+    $very_bad_unclear_name = "15 chicken wings";
+    $order = & $very_bad_unclear_name;
+    $order .= "kuki";
+    // Don't change the line below
+    echo "\nYour order is: $very_bad_unclear_name.";
 
 ?>
