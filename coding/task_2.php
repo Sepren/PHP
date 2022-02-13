@@ -1,5 +1,4 @@
 <?php
-/* Imagine a lot of code here */
     $number = 15;
     echo $number;
     $new_number = 10;
@@ -11,4 +10,5 @@
     $this_month = 1089.98;
     echo $last_month - $this_month;
 
+    
 ?>
