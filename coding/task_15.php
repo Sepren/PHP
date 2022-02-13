@@ -13,6 +13,6 @@
     $str = readline();
     repeatThreeTimes($str);
 
-    
+
 
 ?>
